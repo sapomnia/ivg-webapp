@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Strutture IVG in Italia</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="https://unpkg.com/react@18/umd/react.production.min.js"></script>
+    <script src="https://unpkg.com/react-dom@18/umd/react-dom.production.min.js"></script>
+    <script src="https://unpkg.com/@babel/standalone/babel.min.js"></script>
+</head>
+<body>
+    <div id="root" style="width: 600px; height: 600px; margin: 0 auto;"></div>
+    
+    <script type="text/babel" src="index.js"></script>
+    <script>
+        // Funzione per caricare il file JSON
+        window.fs = {
+            readFile: async function(filename, options) {
+                const response = await fetch(filename);
+                if (options && options.encoding === 'utf8') {
+                    return await response.text();
+                }
+                return await response.arrayBuffer();
+            }
+        };
+    </script>
+</body>
+</html>
