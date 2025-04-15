@@ -1,0 +1,2424 @@
+[
+  {
+    "struttura": "Ospedale Maggiore",
+    "indirizzo": "Largo Bartolo Nigrisoli 2, 40133 Bologna (BO)",
+    "provincia": "Bologna",
+    "totale_ivg": 507,
+    "percentuale_farmacologiche": 99.8
+  },
+  {
+    "struttura": "Ospedale Rimini Poliambulatori",
+    "indirizzo": "Via Settembrini 2, 47900 Rimini (RN)",
+    "provincia": "Rimini",
+    "totale_ivg": 71,
+    "percentuale_farmacologiche": 98.6
+  },
+  {
+    "struttura": "Ospedale Infermi Rimini",
+    "indirizzo": "Viale Settembrini 2, 47900 Rimini (RN)",
+    "provincia": "Rimini",
+    "totale_ivg": 280,
+    "percentuale_farmacologiche": 88.6
+  },
+  {
+    "struttura": "Azienda ospedaliero-universitaria di Modena",
+    "indirizzo": "Via Del Pozzo 71, 41100 Modena (MO)",
+    "provincia": "Modena",
+    "totale_ivg": 595,
+    "percentuale_farmacologiche": 88.2
+  },
+  {
+    "struttura": "Ospedale Morgagni Pierantoni",
+    "indirizzo": "Via Forlanini 34, 47121 Forlì (FC)",
+    "provincia": "Forlì Cesena",
+    "totale_ivg": 181,
+    "percentuale_farmacologiche": 87.8
+  },
+  {
+    "struttura": "Ospedale Franchini",
+    "indirizzo": "Strada Barilla 16, 42027 Montecchio Emilia (RE)",
+    "provincia": "Reggio Emilia",
+    "totale_ivg": 100,
+    "percentuale_farmacologiche": 87.0
+  },
+  {
+    "struttura": "Ospedale Guglielmo da Saliceto Piacenza",
+    "indirizzo": "Via Taverna 49, 29100 Piacenza (PC)",
+    "provincia": "Piacenza",
+    "totale_ivg": 191,
+    "percentuale_farmacologiche": 86.9
+  },
+  {
+    "struttura": "Ospedale degli Infermi",
+    "indirizzo": "Viale Stradone 9, 48018 Faenza (RA)",
+    "provincia": "Ravenna",
+    "totale_ivg": 153,
+    "percentuale_farmacologiche": 81.0
+  },
+  {
+    "struttura": "Arcispedale Santa Maria Nuova di Reggio",
+    "indirizzo": "Viale Risorgimento 80, 42100 Reggio Emilia (RE)",
+    "provincia": "Reggio Emilia",
+    "totale_ivg": 537,
+    "percentuale_farmacologiche": 80.8
+  },
+  {
+    "struttura": "Azienda ospedaliero-universitaria di Parma",
+    "indirizzo": "Via Gramsci 14, 43100 Parma (PR)",
+    "provincia": "Parma",
+    "totale_ivg": 133,
+    "percentuale_farmacologiche": 79.7
+  },
+  {
+    "struttura": "Ospedale Maurizio Bufalini Cesena",
+    "indirizzo": "Viale Ghirotti 286, 47023 Cesena (FC)",
+    "provincia": "Forlì Cesena",
+    "totale_ivg": 245,
+    "percentuale_farmacologiche": 76.7
+  },
+  {
+    "struttura": "Ospedale Santa Maria Bianca",
+    "indirizzo": "Via Fogazzaro Antonio 1, 41037 Mirandola (MO)",
+    "provincia": "Modena",
+    "totale_ivg": 67,
+    "percentuale_farmacologiche": 74.6
+  },
+  {
+    "struttura": "Nuovo Ospedale Civile di Sassuolo spa",
+    "indirizzo": "Via Francesco Ruini 2, 41049 Sassuolo (MO)",
+    "provincia": "Modena",
+    "totale_ivg": 145,
+    "percentuale_farmacologiche": 74.5
+  },
+  {
+    "struttura": "Ospedale Ramazzini",
+    "indirizzo": "Via Molinari 2, 41012 Carpi (MO)",
+    "provincia": "Modena",
+    "totale_ivg": 116,
+    "percentuale_farmacologiche": 69.8
+  },
+  {
+    "struttura": "Ospedale Fidenza",
+    "indirizzo": "Via Don Tincati 5, 43036 Fidenza (PR)",
+    "provincia": "Parma",
+    "totale_ivg": 223,
+    "percentuale_farmacologiche": 69.5
+  },
+  {
+    "struttura": "Ospedale Civile Nuovo Santa Maria della Scala",
+    "indirizzo": "Via Montericco 4, 40026 Imola (BO)",
+    "provincia": "Bologna",
+    "totale_ivg": 148,
+    "percentuale_farmacologiche": 64.9
+  },
+  {
+    "struttura": "Azienda ospedaliero-universitaria di Ferrara",
+    "indirizzo": "Via Aldo Moro 8, 44124 Ferrara (FE)",
+    "provincia": "Ferrara",
+    "totale_ivg": 244,
+    "percentuale_farmacologiche": 59.4
+  },
+  {
+    "struttura": "Irccs Azienda ospedaliero-universitaria",
+    "indirizzo": "Via Giuseppe Massarenti 9, 40138 Bologna (BO)",
+    "provincia": "Bologna",
+    "totale_ivg": 401,
+    "percentuale_farmacologiche": 58.4
+  },
+  {
+    "struttura": "Ospedale Santa Maria delle Croci",
+    "indirizzo": "Viale Randi 5, 48100 Ravenna (RA)",
+    "provincia": "Ravenna",
+    "totale_ivg": 206,
+    "percentuale_farmacologiche": 57.3
+  },
+  {
+    "struttura": "Ospedale Maggiore Pizzardi",
+    "indirizzo": "Largo Bartolo Nigrisoli 2, 40133 Bologna (BO)",
+    "provincia": "Bologna",
+    "totale_ivg": 377,
+    "percentuale_farmacologiche": 53.3
+  },
+  {
+    "struttura": "Stabilimento Ospedaliero SS. Annunziata",
+    "indirizzo": "Via Vicini 2, 44042 Cento (FE)",
+    "provincia": "Ferrara",
+    "totale_ivg": 21,
+    "percentuale_farmacologiche": 33.3
+  },
+  {
+    "struttura": "Distretto Citta di Piacenza - Consultorio Familiare",
+    "indirizzo": "Piazzale Milano 6, 29100 Piacenza (PC)",
+    "provincia": "Piacenza",
+    "totale_ivg": 44,
+    "percentuale_farmacologiche": 100.0
+  },
+  {
+    "struttura": "Azienda ospedaliero-universitaria di Parma",
+    "indirizzo": "Via Gramsci 14, 43100 Parma (PR)",
+    "provincia": "Parma",
+    "totale_ivg": 142,
+    "percentuale_farmacologiche": 100.0
+  },
+  {
+    "struttura": "Consultorio Parma Centro - Casa della Salute",
+    "indirizzo": "Largo Natale Palli 1/a, 43121 Parma (PR)",
+    "provincia": "Parma",
+    "totale_ivg": 74,
+    "percentuale_farmacologiche": 100.0
+  },
+  {
+    "struttura": "Ospedale Sant’Anna",
+    "indirizzo": "Via Roma 2, 42035 Castelnovo ne' Monti (RE)",
+    "provincia": "Reggio Emilia",
+    "totale_ivg": 18,
+    "percentuale_farmacologiche": 100.0
+  },
+  {
+    "struttura": "Consultorio Familiare Scandiano",
+    "indirizzo": "Via Vallisneri 41, 42019 Reggio Emilia (RE)",
+    "provincia": "Reggio Emilia",
+    "totale_ivg": 19,
+    "percentuale_farmacologiche": 100.0
+  },
+  {
+    "struttura": "Consultorio di Carpi",
+    "indirizzo": "Via Don Luigi Sturzo, 21 , 41012 Carpi (MO)",
+    "provincia": "Modena",
+    "totale_ivg": 26,
+    "percentuale_farmacologiche": 100.0
+  },
+  {
+    "struttura": "Consultorio Familiare di Modena",
+    "indirizzo": "Via Don Giovanni Minzoni 121, 41125 Modena (MO)",
+    "provincia": "Modena",
+    "totale_ivg": 19,
+    "percentuale_farmacologiche": 100.0
+  },
+  {
+    "struttura": "Ospedale Costa",
+    "indirizzo": "Via Oreste Zagnoni 3, 40046 Alto Reno Terme (BO)",
+    "provincia": "Bologna",
+    "totale_ivg": 19,
+    "percentuale_farmacologiche": 100.0
+  },
+  {
+    "struttura": "Consultorio Familiare di San Giovanni in Persiceto",
+    "indirizzo": "Via e. Palma 1, 40017 San Giovanni in Persiceto (BO)",
+    "provincia": "Bologna",
+    "totale_ivg": 25,
+    "percentuale_farmacologiche": 100.0
+  },
+  {
+    "struttura": "Stabilimento Ospedaliero SS. Annunziata Cento",
+    "indirizzo": "Via Vicini 2, 44042 Cento (FE)",
+    "provincia": "Ferrara",
+    "totale_ivg": 21,
+    "percentuale_farmacologiche": 100.0
+  },
+  {
+    "struttura": "Azienda ospedaliero-universitaria di Ferrara",
+    "indirizzo": "Via Aldo Moro 8, 44124 Ferrara (FE)",
+    "provincia": "Ferrara",
+    "totale_ivg": 104,
+    "percentuale_farmacologiche": 100.0
+  },
+  {
+    "struttura": "Ospedale di Ravenna",
+    "indirizzo": "Viale Randi 5, 48100 Ravenna (RA)",
+    "provincia": "Ravenna",
+    "totale_ivg": 12,
+    "percentuale_farmacologiche": 100.0
+  },
+  {
+    "struttura": "Centro socio-sanitario Circoscrizione 2",
+    "indirizzo": "Via Berlinguer 11, 48123 Ravenna (RA)",
+    "provincia": "Ravenna",
+    "totale_ivg": 31,
+    "percentuale_farmacologiche": 100.0
+  },
+  {
+    "struttura": "Consultorio Riccione",
+    "indirizzo": "Via San Miniato 16, 47838 Riccione (RN)",
+    "provincia": "Rimini",
+    "totale_ivg": 9,
+    "percentuale_farmacologiche": 100.0
+  },
+  {
+    "struttura": "Ospedale Castel San Giovanni",
+    "indirizzo": "Viale 2 giugno, 29015 Castel San Giovanni (PC)",
+    "provincia": "Piacenza",
+    "totale_ivg": 145,
+    "percentuale_farmacologiche": 0.0
+  },
+  {
+    "struttura": "Casa di Cura Città di Parma",
+    "indirizzo": "Piazza Athos Maestri 5, 43100 Parma (PR)",
+    "provincia": "Parma",
+    "totale_ivg": 112,
+    "percentuale_farmacologiche": 0.0
+  },
+  {
+    "struttura": "Ospedale Vignola",
+    "indirizzo": "Via Plessi Cesare 20, 41058 Vignola (MO)",
+    "provincia": "Modena",
+    "totale_ivg": 2,
+    "percentuale_farmacologiche": 0.0
+  },
+  {
+    "struttura": "Ospedale Privato Domus Nova spa",
+    "indirizzo": "Via Pavirani Paolo 44, 48100 Ravenna (RA)",
+    "provincia": "Ravenna",
+    "totale_ivg": 24,
+    "percentuale_farmacologiche": 0.0
+  },
+  {
+    "struttura": "Ospedale Cervesi",
+    "indirizzo": "Via Beethoven 1, 47841 Cattolica (RN)",
+    "provincia": "Rimini",
+    "totale_ivg": 80,
+    "percentuale_farmacologiche": 0.0
+  },
+  {
+    "struttura": "Ospedale di Mondovì",
+    "indirizzo": "Strada Di San Rocchetto 99, 12084 Mondovì (CN)",
+    "provincia": "Cuneo",
+    "totale_ivg": 88,
+    "percentuale_farmacologiche": 100.0
+  },
+  {
+    "struttura": "Presidio Ospedaliero di Carrara",
+    "indirizzo": "Piazza Sacco e Vanzetti, 54033 Carrara (MS)",
+    "provincia": "Massa Carrara",
+    "totale_ivg": 172,
+    "percentuale_farmacologiche": 100.0
+  },
+  {
+    "struttura": "Ospedale di Valdagno",
+    "indirizzo": "Via Galilei 1, 36078 Valdagno (VI)",
+    "provincia": "Vicenza",
+    "totale_ivg": 38,
+    "percentuale_farmacologiche": 100.0
+  },
+  {
+    "struttura": "Presidio Ospedaliero di Cavalese",
+    "indirizzo": "Via Dossi 21, 38033 Cavalese (TN)",
+    "provincia": "Trento",
+    "totale_ivg": 5,
+    "percentuale_farmacologiche": 100.0
+  },
+  {
+    "struttura": "Ospedale del Casentino",
+    "indirizzo": "Viale Filippo Turati, 52011 Bibbiena (AR)",
+    "provincia": "Arezzo",
+    "totale_ivg": 33,
+    "percentuale_farmacologiche": 100.0
+  },
+  {
+    "struttura": "Ospedale di Rovigo",
+    "indirizzo": "Viale Tre Martiri 140, 45100 Rovigo (RO)",
+    "provincia": "Rovigo",
+    "totale_ivg": 72,
+    "percentuale_farmacologiche": 100.0
+  },
+  {
+    "struttura": "Ospedale di Castelfranco",
+    "indirizzo": "Via Dei Carpani 16/z, 31033 Castelfranco Veneto (TV)",
+    "provincia": "Treviso",
+    "totale_ivg": 64,
+    "percentuale_farmacologiche": 100.0
+  },
+  {
+    "struttura": "Poliambulatorio Grassi",
+    "indirizzo": "Via Passeroni 30, 00122 Roma (RM)",
+    "provincia": "Roma",
+    "totale_ivg": 4,
+    "percentuale_farmacologiche": 100.0
+  },
+  {
+    "struttura": "Consultorio Familiare Primavalle",
+    "indirizzo": "Via Lodovico Jacobin 6, 00168 Roma (RM)",
+    "provincia": "Roma",
+    "totale_ivg": 56,
+    "percentuale_farmacologiche": 100.0
+  },
+  {
+    "struttura": "Consultorio Familiare Silone d9",
+    "indirizzo": "Via Ignazio Silone 100, 00143 Roma (RM)",
+    "provincia": "Roma",
+    "totale_ivg": 5,
+    "percentuale_farmacologiche": 100.0
+  },
+  {
+    "struttura": "Stabilimento Ospedaliero di Narni",
+    "indirizzo": "Via Cappuccini Nuovi 3, 05035 Narni (TR)",
+    "provincia": "Terni",
+    "totale_ivg": 5,
+    "percentuale_farmacologiche": 100.0
+  },
+  {
+    "struttura": "Consultorio Familiare Pietralata",
+    "indirizzo": "Via di Pietralata 497, 00158 Roma (RM)",
+    "provincia": "Roma",
+    "totale_ivg": 107,
+    "percentuale_farmacologiche": 100.0
+  },
+  {
+    "struttura": "Lacsm Ariccia",
+    "indirizzo": "Via delle Cerquette 1, 00040 Ariccia (RM)",
+    "provincia": "Roma",
+    "totale_ivg": 27,
+    "percentuale_farmacologiche": 100.0
+  },
+  {
+    "struttura": "Presidio ospedaliero Civico",
+    "indirizzo": "Via Circonvallazione 1, 90047 Partinico (PA)",
+    "provincia": "Palermo",
+    "totale_ivg": 39,
+    "percentuale_farmacologiche": 100.0
+  },
+  {
+    "struttura": "Casa di Cura Serena spa",
+    "indirizzo": "Via della Regione Siciliana 1470, 90135 Palermo (PA)",
+    "provincia": "Palermo",
+    "totale_ivg": 7,
+    "percentuale_farmacologiche": 100.0
+  },
+  {
+    "struttura": "Presidio ospedaliero Chiello",
+    "indirizzo": "Contrada Bellia, 94015 Piazza Armerina (EN)",
+    "provincia": "Enna",
+    "totale_ivg": 175,
+    "percentuale_farmacologiche": 100.0
+  },
+  {
+    "struttura": "Ospedale San Severo - Teresa Masselli",
+    "indirizzo": "Viale 2 Giugno, 71016 San Severo (FG)",
+    "provincia": "Foggia",
+    "totale_ivg": 2,
+    "percentuale_farmacologiche": 100.0
+  },
+  {
+    "struttura": "Poliambulatorio Centro Sant’Anna",
+    "indirizzo": "Via Garigliano 55, 00198 Roma (RM)",
+    "provincia": "Roma",
+    "totale_ivg": 291,
+    "percentuale_farmacologiche": 99.7
+  },
+  {
+    "struttura": "Ospedale Galmarini",
+    "indirizzo": "Piazza Angelo Zanaboni, 21049 Tradate (VA)",
+    "provincia": "Varese",
+    "totale_ivg": 228,
+    "percentuale_farmacologiche": 99.6
+  },
+  {
+    "struttura": "Ospedale Castellaneta",
+    "indirizzo": "Via del Mercato 60, 74011 Castellaneta (TA)",
+    "provincia": "Taranto",
+    "totale_ivg": 340,
+    "percentuale_farmacologiche": 99.4
+  },
+  {
+    "struttura": "Presidio ospedaliero Santa Marta e Santa Venera",
+    "indirizzo": "Via Caronia s.n., 95024 Acireale (CT)",
+    "provincia": "Catania",
+    "totale_ivg": 184,
+    "percentuale_farmacologiche": 98.9
+  },
+  {
+    "struttura": "Presidio ospedaliero Abele Ajello",
+    "indirizzo": "Via Salemi 175, 91026 Mazara del Vallo (TP)",
+    "provincia": "Trapani",
+    "totale_ivg": 52,
+    "percentuale_farmacologiche": 98.1
+  },
+  {
+    "struttura": "Ospedale Martini",
+    "indirizzo": "Via Tofane 71, 10141 Torino (TO)",
+    "provincia": "Torino",
+    "totale_ivg": 180,
+    "percentuale_farmacologiche": 97.2
+  },
+  {
+    "struttura": "Ospedale di Venere",
+    "indirizzo": "Via Ospedale di Venere 1, 70010 Bari (BA)",
+    "provincia": "Bari",
+    "totale_ivg": 953,
+    "percentuale_farmacologiche": 97.1
+  },
+  {
+    "struttura": "Poliambulatorio Tagliamento",
+    "indirizzo": "Via Tagliamento 19, 00198 Roma (RM)",
+    "provincia": "Roma",
+    "totale_ivg": 33,
+    "percentuale_farmacologiche": 96.9
+  },
+  {
+    "struttura": "Presidio ospedaliero della Murgia Perinei",
+    "indirizzo": "Strada statale 96 Km 73,800, 70022 Altamura (BA)",
+    "provincia": "Bari",
+    "totale_ivg": 108,
+    "percentuale_farmacologiche": 96.3
+  },
+  {
+    "struttura": "Presidio ospedaliero Latisana",
+    "indirizzo": "Via Sabbionera 45, 33053 Latisana (UD)",
+    "provincia": "Udine",
+    "totale_ivg": 53,
+    "percentuale_farmacologiche": 96.2
+  },
+  {
+    "struttura": "Ospedale San Giovanni di Dio Fondi",
+    "indirizzo": "Via San Magno, 04022 (LT)",
+    "provincia": "Latina",
+    "totale_ivg": 145,
+    "percentuale_farmacologiche": 95.9
+  },
+  {
+    "struttura": "Presidio Ospedaliero Santa Chiara",
+    "indirizzo": "Largo Medaglie d'Oro 9, 38122 Trento (TN)",
+    "provincia": "Trento",
+    "totale_ivg": 335,
+    "percentuale_farmacologiche": 95.8
+  },
+  {
+    "struttura": "Ospedale di Villamarina",
+    "indirizzo": "Via Forlanini 24, 57025 Piombino (LI)",
+    "provincia": "Livorno",
+    "totale_ivg": 46,
+    "percentuale_farmacologiche": 95.7
+  },
+  {
+    "struttura": "Ospedale San Giovanni di Dio",
+    "indirizzo": "Via Foggia, 85025 Melfi (PZ)",
+    "provincia": "Potenza",
+    "totale_ivg": 47,
+    "percentuale_farmacologiche": 95.7
+  },
+  {
+    "struttura": "Ospedale Basso Ionio",
+    "indirizzo": "Via Don Carlo de Cardona, 88068 Soverato (CZ)",
+    "provincia": "Catanzaro",
+    "totale_ivg": 111,
+    "percentuale_farmacologiche": 95.5
+  },
+  {
+    "struttura": "Presidio ospedaliero riunito",
+    "indirizzo": "Via Battitore 7/9, 10073 Ciriè (TO)",
+    "provincia": "Torino",
+    "totale_ivg": 77,
+    "percentuale_farmacologiche": 94.4
+  },
+  {
+    "struttura": "Stabilimento ospedaliero Media Valle Del Tevere",
+    "indirizzo": "Via del Buda, località Pantalla, 06059 Todi (PG)",
+    "provincia": "Perugia",
+    "totale_ivg": 213,
+    "percentuale_farmacologiche": 93.9
+  },
+  {
+    "struttura": "Presidio Ospedaliero Sud",
+    "indirizzo": "Via Appia Lato Napoli, 04023 Formia (LT)",
+    "provincia": "Latina",
+    "totale_ivg": 100,
+    "percentuale_farmacologiche": 93.9
+  },
+  {
+    "struttura": "Presidio Ospedaliero Riuniti",
+    "indirizzo": "Via Giuseppe Melacrino 21, 89124 Reggio Calabria (RC)",
+    "provincia": "Reggio Calabria",
+    "totale_ivg": 247,
+    "percentuale_farmacologiche": 92.7
+  },
+  {
+    "struttura": "Ospedale Civile San Matteo degli Infermi",
+    "indirizzo": "Via Loreto 3, 06049 Spoleto (PG)",
+    "provincia": "Perugia",
+    "totale_ivg": 113,
+    "percentuale_farmacologiche": 92.0
+  },
+  {
+    "struttura": "Presidio ospedaliero Tolmezzo",
+    "indirizzo": "Via Morgagni 18, 33028 Tolmezzo (UD)",
+    "provincia": "Udine",
+    "totale_ivg": 36,
+    "percentuale_farmacologiche": 91.7
+  },
+  {
+    "struttura": "Ospedale di Desenzano",
+    "indirizzo": "Località Montecroce, 25015 Desenzano del Garda (BS)",
+    "provincia": "Brescia",
+    "totale_ivg": 146,
+    "percentuale_farmacologiche": 90.4
+  },
+  {
+    "struttura": "Presidio ospedaliero Jazzolino",
+    "indirizzo": "Piazza Fleming, 89900 Vibo Valentia (VV)",
+    "provincia": "Vibo Valentia",
+    "totale_ivg": 73,
+    "percentuale_farmacologiche": 90.4
+  },
+  {
+    "struttura": "Ospedale San Giuseppe Marino",
+    "indirizzo": "Viale XXIV maggio, 00047 Marino (RM)",
+    "provincia": "Roma",
+    "totale_ivg": 299,
+    "percentuale_farmacologiche": 90.3
+  },
+  {
+    "struttura": "Stabilimento di Urbino",
+    "indirizzo": "Via Comandino 70, 61029 Urbino (PU)",
+    "provincia": "Pesaro Urbino",
+    "totale_ivg": 59,
+    "percentuale_farmacologiche": 89.8
+  },
+  {
+    "struttura": "Ospedale Perrino Brindisi",
+    "indirizzo": "Strada statale 7 per Mesagne, 72100 Brindisi (BR)",
+    "provincia": "Brindisi",
+    "totale_ivg": 211,
+    "percentuale_farmacologiche": 89.6
+  },
+  {
+    "struttura": "Ospedale San Pio da Pietrelcina di Villa d'Agri",
+    "indirizzo": "Via San Pio s.n.c., 85050 Marsicovetere (PZ)",
+    "provincia": "Potenza",
+    "totale_ivg": 18,
+    "percentuale_farmacologiche": 88.9
+  },
+  {
+    "struttura": "Ospedale Civile Alghero",
+    "indirizzo": "Via Don Minzoni, 07041 Alghero (SS)",
+    "provincia": "Sassari",
+    "totale_ivg": 53,
+    "percentuale_farmacologiche": 88.7
+  },
+  {
+    "struttura": "Ospedale Civico",
+    "indirizzo": "Corso Ferraris Galileo 3, 10034 Chivasso (TO)",
+    "provincia": "Torino",
+    "totale_ivg": 182,
+    "percentuale_farmacologiche": 88.5
+  },
+  {
+    "struttura": "Presidio ospedaliero SS. trinità",
+    "indirizzo": "Via Is Mirrionis 92, 09121 Cagliari (CA)",
+    "provincia": "Cagliari",
+    "totale_ivg": 234,
+    "percentuale_farmacologiche": 88.5
+  },
+  {
+    "struttura": "Presidio ospedaliero San Vito al Tagliamento",
+    "indirizzo": "Via Savorgnano 2, 33078 San Vito Al Tagliamento (PN)",
+    "provincia": "Pordenone",
+    "totale_ivg": 276,
+    "percentuale_farmacologiche": 88.4
+  },
+  {
+    "struttura": "Ospedale Del Mare",
+    "indirizzo": "Via Enrico Russo, 80147 Napoli (NA)",
+    "provincia": "Napoli",
+    "totale_ivg": 292,
+    "percentuale_farmacologiche": 88.0
+  },
+  {
+    "struttura": "Ospedale Civile La Memoria",
+    "indirizzo": "Via Andrea Gosa 74, 25085 Gavardo (BS)",
+    "provincia": "Brescia",
+    "totale_ivg": 89,
+    "percentuale_farmacologiche": 87.6
+  },
+  {
+    "struttura": "Ospedale Pederzoli Casa di Cura spa",
+    "indirizzo": "Via Monte Baldo 24, 37019 Peschiera Del Garda (VR)",
+    "provincia": "Verona",
+    "totale_ivg": 8,
+    "percentuale_farmacologiche": 87.5
+  },
+  {
+    "struttura": "Ospedale Mauriziano Umberto I",
+    "indirizzo": "Largo Turati 62, 10128 Torino (TO)",
+    "provincia": "Torino",
+    "totale_ivg": 79,
+    "percentuale_farmacologiche": 87.3
+  },
+  {
+    "struttura": "Ospedale Pesenti Fenaroli",
+    "indirizzo": "Via Mazzini 88, 24022 Alzano Lombardo (BG)",
+    "provincia": "Bergamo",
+    "totale_ivg": 468,
+    "percentuale_farmacologiche": 87.2
+  },
+  {
+    "struttura": "Ospedale di Città di Castello",
+    "indirizzo": "Via Luigi Angelini 10, 06012 Città di Castello (PG)",
+    "provincia": "Perugia",
+    "totale_ivg": 39,
+    "percentuale_farmacologiche": 87.2
+  },
+  {
+    "struttura": "Ospedale San Benedetto Alatri",
+    "indirizzo": "Località Chiappitto, 03011 Alatri (FR)",
+    "provincia": "Frosinone",
+    "totale_ivg": 412,
+    "percentuale_farmacologiche": 87.1
+  },
+  {
+    "struttura": "Presidio ospedaliero Monopoli",
+    "indirizzo": "Largo Simone Veneziani 21, 70043 Monopoli (BA)",
+    "provincia": "Bari",
+    "totale_ivg": 23,
+    "percentuale_farmacologiche": 87.0
+  },
+  {
+    "struttura": "Ospedale Bisceglie",
+    "indirizzo": "Via Bovio 279/A, 76011 Bisceglie (BT)",
+    "provincia": "Barletta Andria Trani",
+    "totale_ivg": 141,
+    "percentuale_farmacologiche": 86.5
+  },
+  {
+    "struttura": "Ospedale Giovanni Paolo II",
+    "indirizzo": "Contrada Cisternazzi Via Tiralongo s.n.c, 97100 Ragusa (RG)",
+    "provincia": "Ragusa",
+    "totale_ivg": 144,
+    "percentuale_farmacologiche": 86.1
+  },
+  {
+    "struttura": "Stabilimento di Ascoli Piceno",
+    "indirizzo": "Via degli Iris Monticelli, 63100 Ascoli Piceno (AP)",
+    "provincia": "Ascoli Piceno",
+    "totale_ivg": 93,
+    "percentuale_farmacologiche": 86.0
+  },
+  {
+    "struttura": "Ospedale di Cittadella",
+    "indirizzo": "Via Riva ospedale, 35013 Cittadella (PD)",
+    "provincia": "Padova",
+    "totale_ivg": 231,
+    "percentuale_farmacologiche": 85.7
+  },
+  {
+    "struttura": "Ospedale Maria Vittoria",
+    "indirizzo": "Via Cibrario Luigi 72, 10144 Torino (TO)",
+    "provincia": "Torino",
+    "totale_ivg": 90,
+    "percentuale_farmacologiche": 85.6
+  },
+  {
+    "struttura": "Ospedale Degli Infermi",
+    "indirizzo": "Via Rivalta 29 , 10098 Rivoli (TO)",
+    "provincia": "Torino",
+    "totale_ivg": 110,
+    "percentuale_farmacologiche": 85.5
+  },
+  {
+    "struttura": "Ospedale Civile San Giovanni di Dio",
+    "indirizzo": "Via Pirozzi 66, 80027 Frattamaggiore (NA)",
+    "provincia": "Napoli",
+    "totale_ivg": 182,
+    "percentuale_farmacologiche": 85.2
+  },
+  {
+    "struttura": "Ospedale San Giovanni",
+    "indirizzo": "Viale Colombo, 85042 Lagonegro (PZ)",
+    "provincia": "Potenza",
+    "totale_ivg": 27,
+    "percentuale_farmacologiche": 85.2
+  },
+  {
+    "struttura": "Presidio ospedaliero Lamezia Terme",
+    "indirizzo": "Via Arturo Perugini 1, 88046 Lamezia Terme (CZ)",
+    "provincia": "Catanzaro",
+    "totale_ivg": 214,
+    "percentuale_farmacologiche": 85.0
+  },
+  {
+    "struttura": "Ospedale Sant’Andrea",
+    "indirizzo": "Via Vittorio Veneto 197, 19124 La Spezia (SP)",
+    "provincia": "La Spezia",
+    "totale_ivg": 257,
+    "percentuale_farmacologiche": 84.4
+  },
+  {
+    "struttura": "Presidio Ospedaliero Gubbio e Gualdo Tadino",
+    "indirizzo": "Largo Unità d’Italia, località Branca, 06024 Gubbio (PG)",
+    "provincia": "Perugia",
+    "totale_ivg": 90,
+    "percentuale_farmacologiche": 84.1
+  },
+  {
+    "struttura": "Ospedale Civile Agnelli",
+    "indirizzo": "Via Brigata Cagliari 39, 10064 Pinerolo (TO)",
+    "provincia": "Torino",
+    "totale_ivg": 94,
+    "percentuale_farmacologiche": 84.0
+  },
+  {
+    "struttura": "Irccs Ospedale Policlinico San Martino",
+    "indirizzo": "Largo Rosanna Benzi 10, 16132 Genova (GE)",
+    "provincia": "Genova",
+    "totale_ivg": 329,
+    "percentuale_farmacologiche": 83.8
+  },
+  {
+    "struttura": "Ospedale Villa Scassi",
+    "indirizzo": "Corso Onofrio Scassi 1, 16151 Genova (GE)",
+    "provincia": "Genova",
+    "totale_ivg": 632,
+    "percentuale_farmacologiche": 83.5
+  },
+  {
+    "struttura": "Ospedale Mazzini",
+    "indirizzo": "Piazza Italia, 64100 Teramo (TE)",
+    "provincia": "Teramo",
+    "totale_ivg": 413,
+    "percentuale_farmacologiche": 83.5
+  },
+  {
+    "struttura": "Ospedale Poma",
+    "indirizzo": "Strada Lago Paiolo 10, 46100 Mantova (MN)",
+    "provincia": "Mantova",
+    "totale_ivg": 289,
+    "percentuale_farmacologiche": 83.1
+  },
+  {
+    "struttura": "Ospedale degli Infermi",
+    "indirizzo": "Via dei Ponderanesi 2, 13875 Ponderano (BI)",
+    "provincia": "Biella",
+    "totale_ivg": 173,
+    "percentuale_farmacologiche": 82.7
+  },
+  {
+    "struttura": "Ospedale San Giuliano",
+    "indirizzo": "Via Basile, 80014 Giugliano in Campania (NA)",
+    "provincia": "Napoli",
+    "totale_ivg": 732,
+    "percentuale_farmacologiche": 82.7
+  },
+  {
+    "struttura": "Ospedale di Oderzo",
+    "indirizzo": "Viale Luzzatti 45, 31046 Oderzo (TV)",
+    "provincia": "Treviso",
+    "totale_ivg": 74,
+    "percentuale_farmacologiche": 82.4
+  },
+  {
+    "struttura": "Ospedale Michele Ferrero e Pietro Ferrero",
+    "indirizzo": "Strada Tanaro 7/9, 12060 Verduno (CN)",
+    "provincia": "Cuneo",
+    "totale_ivg": 146,
+    "percentuale_farmacologiche": 82.2
+  },
+  {
+    "struttura": "Presidio Ospedaliero Santa Maria Maddalena",
+    "indirizzo": "Borgo San Lazzaro 5, 56048 Volterra (PI)",
+    "provincia": "Pisa",
+    "totale_ivg": 44,
+    "percentuale_farmacologiche": 81.8
+  },
+  {
+    "struttura": "Presidio Ospedaliero Cardarelli",
+    "indirizzo": "Via Montalbò Snc contrada Tappino, 86100 Campobasso (CB)",
+    "provincia": "Campobasso",
+    "totale_ivg": 260,
+    "percentuale_farmacologiche": 81.5
+  },
+  {
+    "struttura": "Ospedale SS. Pietro E Paolo",
+    "indirizzo": "Via Ilorini Mo a. f. 20, 13011 Borgosesia (VC)",
+    "provincia": "Vercelli",
+    "totale_ivg": 129,
+    "percentuale_farmacologiche": 81.1
+  },
+  {
+    "struttura": "Ospedale Civile",
+    "indirizzo": "Piazza Della Credenza 2, 10015 Ivrea (TO)",
+    "provincia": "Torino",
+    "totale_ivg": 163,
+    "percentuale_farmacologiche": 81.0
+  },
+  {
+    "struttura": "Ospedale Santa Maria delle Grazie",
+    "indirizzo": "Via Domitiana località La Schiana, 80078 Pozzuoli (NA)",
+    "provincia": "Napoli",
+    "totale_ivg": 196,
+    "percentuale_farmacologiche": 80.6
+  },
+  {
+    "struttura": "Ospedale Maggiore della carità",
+    "indirizzo": "Corso Mazzini Giuseppe 18, 28100 Novara (NO)",
+    "provincia": "Novara",
+    "totale_ivg": 371,
+    "percentuale_farmacologiche": 80.3
+  },
+  {
+    "struttura": "Ospedale Santa Croce",
+    "indirizzo": "Piazza Amedeo Ferdinando 3, 10024 Moncalieri (TO)",
+    "provincia": "Torino",
+    "totale_ivg": 85,
+    "percentuale_farmacologiche": 80.0
+  },
+  {
+    "struttura": "Presidio Ospedale Cardinal Massaia",
+    "indirizzo": "Corso Dante 202, 14100 Asti (AT)",
+    "provincia": "Asti",
+    "totale_ivg": 208,
+    "percentuale_farmacologiche": 80.0
+  },
+  {
+    "struttura": "Polo Ospedaliero",
+    "indirizzo": "Strada sammartinese, 01100 Viterbo (VT)",
+    "provincia": "Viterbo",
+    "totale_ivg": 96,
+    "percentuale_farmacologiche": 80.0
+  },
+  {
+    "struttura": "Presidio Ospedaliero Matera",
+    "indirizzo": "Contrada Cattedra ambulante, 75100 Matera (MT)",
+    "provincia": "Matera",
+    "totale_ivg": 80,
+    "percentuale_farmacologiche": 80.0
+  },
+  {
+    "struttura": "Ospedale Corigliano",
+    "indirizzo": "Viale Rimembranze, 87064 Corigliano Rossano (CS)",
+    "provincia": "Cosenza",
+    "totale_ivg": 34,
+    "percentuale_farmacologiche": 79.4
+  },
+  {
+    "struttura": "Ospedale Sacro Cuore di Gesù",
+    "indirizzo": "Strada provincile Alezio-Gallipoli, 73014 Gallipoli (LE)",
+    "provincia": "Lecce",
+    "totale_ivg": 71,
+    "percentuale_farmacologiche": 78.9
+  },
+  {
+    "struttura": "Ospedale della Valdinievole",
+    "indirizzo": "via Cesare Battisti, 51017 Pescia (PT)",
+    "provincia": "Pistoia",
+    "totale_ivg": 253,
+    "percentuale_farmacologiche": 78.7
+  },
+  {
+    "struttura": "Ospedale di Rovereto",
+    "indirizzo": "Corso Verona 4, 38068 Rovereto (TN)",
+    "provincia": "Trento",
+    "totale_ivg": 145,
+    "percentuale_farmacologiche": 78.6
+  },
+  {
+    "struttura": "Ospedale di Portoferraio",
+    "indirizzo": "Località San Rocco, 57037 Portoferraio (LI)",
+    "provincia": "Livorno",
+    "totale_ivg": 37,
+    "percentuale_farmacologiche": 78.4
+  },
+  {
+    "struttura": "Ospedale di Feltre",
+    "indirizzo": "Via Bagnols Sur Ceze 3, 32032 Feltre (BL)",
+    "provincia": "Belluno",
+    "totale_ivg": 156,
+    "percentuale_farmacologiche": 78.2
+  },
+  {
+    "struttura": "Ospedale Monsignor Dimiccoli",
+    "indirizzo": "Viale Ippocrate 15, 76121 Barletta (BT)",
+    "provincia": "Barletta Andria Trani",
+    "totale_ivg": 354,
+    "percentuale_farmacologiche": 78.2
+  },
+  {
+    "struttura": "Ospedale Maggiore di Lodi",
+    "indirizzo": "Viale Savoia 1, 26900 Lodi (LO)",
+    "provincia": "Lodi",
+    "totale_ivg": 323,
+    "percentuale_farmacologiche": 77.4
+  },
+  {
+    "struttura": "Ospedale Maggiore",
+    "indirizzo": "Via Aldo Moro, 97015 Modica (RG)",
+    "provincia": "Ragusa",
+    "totale_ivg": 350,
+    "percentuale_farmacologiche": 77.1
+  },
+  {
+    "struttura": "Ospedale Maggiore",
+    "indirizzo": "Via De Maria 1, 10023 Chieri (TO)",
+    "provincia": "Torino",
+    "totale_ivg": 109,
+    "percentuale_farmacologiche": 76.9
+  },
+  {
+    "struttura": "Ospedale Civile",
+    "indirizzo": "Via Volturno 14, 27058 Voghera (PV)",
+    "provincia": "Pavia",
+    "totale_ivg": 171,
+    "percentuale_farmacologiche": 76.6
+  },
+  {
+    "struttura": "Ospedale Sant’Antonio Abate",
+    "indirizzo": "Via Pastori 4, 21013 Gallarate (VA)",
+    "provincia": "Varese",
+    "totale_ivg": 273,
+    "percentuale_farmacologiche": 76.2
+  },
+  {
+    "struttura": "Presidio ospedaliero Santi Filippo e Nicola",
+    "indirizzo": "Via Giuseppe Di Vittorio, 67051 Avezzano (AQ)",
+    "provincia": "L’Aquila",
+    "totale_ivg": 186,
+    "percentuale_farmacologiche": 75.8
+  },
+  {
+    "struttura": "Ospedale di Adria",
+    "indirizzo": "Piazza Degli Etruschi 9, 45011 Adria (RO)",
+    "provincia": "Rovigo",
+    "totale_ivg": 74,
+    "percentuale_farmacologiche": 75.7
+  },
+  {
+    "struttura": "Ospedale di Circolo Manzoni",
+    "indirizzo": "Via dell'Eremo 9/11, 23900 Lecco (LC)",
+    "provincia": "Lecco",
+    "totale_ivg": 182,
+    "percentuale_farmacologiche": 74.9
+  },
+  {
+    "struttura": "Presidio ospedaliero San Cimino",
+    "indirizzo": "Via Salvatore Cimino, 90018 Termini Imerese (PA)",
+    "provincia": "Palermo",
+    "totale_ivg": 102,
+    "percentuale_farmacologiche": 74.5
+  },
+  {
+    "struttura": "Ospedale Riuniti Leonardi e Riboli Lavagna",
+    "indirizzo": "Via Don Bobbio 25, 16033 Lavagna (GE)",
+    "provincia": "Genova",
+    "totale_ivg": 142,
+    "percentuale_farmacologiche": 73.8
+  },
+  {
+    "struttura": "Stabilimento Ospedaliero Castelli",
+    "indirizzo": "Via Fiume 18, 28925 Verbania (VB)",
+    "provincia": "Verbania",
+    "totale_ivg": 118,
+    "percentuale_farmacologiche": 73.5
+  },
+  {
+    "struttura": "Ospedale San Paolo",
+    "indirizzo": "Via Di Rudinì 8, 20142 Milano (MI)",
+    "provincia": "Milano",
+    "totale_ivg": 584,
+    "percentuale_farmacologiche": 73.1
+  },
+  {
+    "struttura": "Casa di Cura Candela spa",
+    "indirizzo": "Via Villareale 54, 90141 Palermo (PA)",
+    "provincia": "Palermo",
+    "totale_ivg": 52,
+    "percentuale_farmacologiche": 73.1
+  },
+  {
+    "struttura": "Azienda ospedaliera Santa Croce e Carle",
+    "indirizzo": "Via Coppino Michele 26, 12100 Cuneo (CN)",
+    "provincia": "Cuneo",
+    "totale_ivg": 237,
+    "percentuale_farmacologiche": 73.0
+  },
+  {
+    "struttura": "Presidio ospedaliero CTO",
+    "indirizzo": "Via Cattaneo, 09016 Iglesias (SU)",
+    "provincia": "Sud Sardegna",
+    "totale_ivg": 38,
+    "percentuale_farmacologiche": 73.0
+  },
+  {
+    "struttura": "Ospedali Riuniti della Val di Chiana",
+    "indirizzo": "Via Provinciale Montepulciano 5, 53045 Montepulciano (SI)",
+    "provincia": "Siena",
+    "totale_ivg": 89,
+    "percentuale_farmacologiche": 73.0
+  },
+  {
+    "struttura": "Evangelico San Carlo Voltri",
+    "indirizzo": "Piazzale Giannasso 4, 16158 Genova (GE)",
+    "provincia": "Genova",
+    "totale_ivg": 85,
+    "percentuale_farmacologiche": 72.9
+  },
+  {
+    "struttura": "Ospedale di Umbertide",
+    "indirizzo": "Via Cavour 40, 06019 Umbertide (PG)",
+    "provincia": "Perugia",
+    "totale_ivg": 108,
+    "percentuale_farmacologiche": 72.9
+  },
+  {
+    "struttura": "Ospedale di Legnago",
+    "indirizzo": "Via Gianella 1, 37045 Legnago (VR)",
+    "provincia": "Verona",
+    "totale_ivg": 103,
+    "percentuale_farmacologiche": 72.8
+  },
+  {
+    "struttura": "Ospedale Area Aretina Nord",
+    "indirizzo": "Via Nenni, 52100 Arezzo (AR)",
+    "provincia": "Arezzo",
+    "totale_ivg": 205,
+    "percentuale_farmacologiche": 72.7
+  },
+  {
+    "struttura": "Ospedale Civile San Giovanni di Dio",
+    "indirizzo": "Via Bologna, 88900 Crotone (KR)",
+    "provincia": "Crotone",
+    "totale_ivg": 120,
+    "percentuale_farmacologiche": 72.5
+  },
+  {
+    "struttura": "Ospedale Guzzardi Vittoria",
+    "indirizzo": "Via Papa Giovanni XXIII, 97019 Vittoria (RG)",
+    "provincia": "Ragusa",
+    "totale_ivg": 36,
+    "percentuale_farmacologiche": 72.2
+  },
+  {
+    "struttura": "Ospedale Valcamonica",
+    "indirizzo": "Via Manzoni 142, 25040 Esine (BS)",
+    "provincia": "Brescia",
+    "totale_ivg": 107,
+    "percentuale_farmacologiche": 72.0
+  },
+  {
+    "struttura": "Presidio ospedaliero San Paolo",
+    "indirizzo": "Via Caposcardicchio 1, 70123 Bari (BA)",
+    "provincia": "Bari",
+    "totale_ivg": 815,
+    "percentuale_farmacologiche": 71.3
+  },
+  {
+    "struttura": "Presidio ospedaliero San Pio da Pietrelcina",
+    "indirizzo": "Via San Camillo De lellis, 66054 Vasto (CH)",
+    "provincia": "Vasto",
+    "totale_ivg": 104,
+    "percentuale_farmacologiche": 71.2
+  },
+  {
+    "struttura": "Ospedale Ostetrico Ginecologico Sant'Anna",
+    "indirizzo": "Corso Spezia 60, 10126 Torino (TO)",
+    "provincia": "Torino",
+    "totale_ivg": 2028,
+    "percentuale_farmacologiche": 70.9
+  },
+  {
+    "struttura": "Ospedale San Carlo",
+    "indirizzo": "Via Potito Petrone snc, 85100 Potenza (PZ)",
+    "provincia": "Potenza",
+    "totale_ivg": 246,
+    "percentuale_farmacologiche": 70.5
+  },
+  {
+    "struttura": "Presidio ospedaliero Cervello",
+    "indirizzo": "Via Trabucco 180, 90146 Palermo (PA)",
+    "provincia": "Palermo",
+    "totale_ivg": 390,
+    "percentuale_farmacologiche": 70.2
+  },
+  {
+    "struttura": "Presidio Ospedaliero Annunziata",
+    "indirizzo": "Via Felice Migliori, 87100 Cosenza (CS)",
+    "provincia": "Cosenza",
+    "totale_ivg": 300,
+    "percentuale_farmacologiche": 69.5
+  },
+  {
+    "struttura": "Presidio Ospedaliero San Luca",
+    "indirizzo": "Via Guglielmo Lippi Francesconi, 55100 Lucca (LU)",
+    "provincia": "Lucca",
+    "totale_ivg": 172,
+    "percentuale_farmacologiche": 69.2
+  },
+  {
+    "struttura": "Stabilimento San Michele",
+    "indirizzo": "Piazzale Ricchi 1, 09134 Cagliari (CA)",
+    "provincia": "Cagliari",
+    "totale_ivg": 90,
+    "percentuale_farmacologiche": 68.9
+  },
+  {
+    "struttura": "Santa Maria della Stella",
+    "indirizzo": "Località Ciconia, 05018 Orvieto (TR)",
+    "provincia": "Terni",
+    "totale_ivg": 80,
+    "percentuale_farmacologiche": 68.8
+  },
+  {
+    "struttura": "Ospedale Sant’Anna",
+    "indirizzo": "Via Ravona 20, 22020 San Fermo Della Battaglia (CO)",
+    "provincia": "Como",
+    "totale_ivg": 173,
+    "percentuale_farmacologiche": 68.6
+  },
+  {
+    "struttura": "Ospedale di Venezia",
+    "indirizzo": "Castello 6777/a, 30122 Venezia (VE)",
+    "provincia": "Venezia",
+    "totale_ivg": 89,
+    "percentuale_farmacologiche": 68.5
+  },
+  {
+    "struttura": "Ospedale Regionale Umberto Parini",
+    "indirizzo": "Viale Ginevra 3, 11100 Aosta (AO)",
+    "provincia": "Aosta",
+    "totale_ivg": 133,
+    "percentuale_farmacologiche": 68.4
+  },
+  {
+    "struttura": "Ircc San  Burlo Garofolo",
+    "indirizzo": "Via dell’Istria 65/1, 34137 Trieste (TS)",
+    "provincia": "Trieste",
+    "totale_ivg": 313,
+    "percentuale_farmacologiche": 68.4
+  },
+  {
+    "struttura": "Ospedale di Mestre",
+    "indirizzo": "Via Paccagnella 11, 30174 Venezia (VE)",
+    "provincia": "Venezia",
+    "totale_ivg": 307,
+    "percentuale_farmacologiche": 68.4
+  },
+  {
+    "struttura": "Presidio ospedaliero Lotti Stabilimento di Pontedera",
+    "indirizzo": "Via Roma 180, 56025 Pontedera (PI)",
+    "provincia": "Pisa",
+    "totale_ivg": 245,
+    "percentuale_farmacologiche": 67.8
+  },
+  {
+    "struttura": "Ospedale San Biagio",
+    "indirizzo": "Piazza Vittime dei lager nazifascisti 1, 28845 Domodossola (VB)",
+    "provincia": "Verbania",
+    "totale_ivg": 46,
+    "percentuale_farmacologiche": 67.4
+  },
+  {
+    "struttura": "Presidio ospedaliero San Daniele",
+    "indirizzo": "Via Trento Trieste 33, 33038 San Daniele del Friuli (UD)",
+    "provincia": "Udine",
+    "totale_ivg": 92,
+    "percentuale_farmacologiche": 67.4
+  },
+  {
+    "struttura": "Policlinico Monserrato",
+    "indirizzo": "Ss 554 Km 4,500 Policlinico Monserrato, 09100 Cagliari (CA)",
+    "provincia": "Cagliari",
+    "totale_ivg": 110,
+    "percentuale_farmacologiche": 67.3
+  },
+  {
+    "struttura": "Ospedale San Paolo",
+    "indirizzo": "Via Genova 30 località Valloria, 17100 Savona (SV)",
+    "provincia": "Savona",
+    "totale_ivg": 232,
+    "percentuale_farmacologiche": 66.8
+  },
+  {
+    "struttura": "Presidio Ospedaliero San Filippo Neri",
+    "indirizzo": "Via Martinotti 20, 00133 Roma (RM)",
+    "provincia": "Roma",
+    "totale_ivg": 433,
+    "percentuale_farmacologiche": 66.7
+  },
+  {
+    "struttura": "Ospedale Pugliese",
+    "indirizzo": "Via Pio X, 88100 Catanzaro (CZ)",
+    "provincia": "Catanzaro",
+    "totale_ivg": 312,
+    "percentuale_farmacologiche": 66.6
+  },
+  {
+    "struttura": "Ospedale Civile Ferrari",
+    "indirizzo": "Viale del Lavoro, 87012 Castrovillari (CS)",
+    "provincia": "Cosenza",
+    "totale_ivg": 150,
+    "percentuale_farmacologiche": 66.4
+  },
+  {
+    "struttura": "Presidio ospedaliero San Francesco",
+    "indirizzo": "Via Mannironi, 08100 Nuoro (NU)",
+    "provincia": "Nuoro",
+    "totale_ivg": 94,
+    "percentuale_farmacologiche": 66.0
+  },
+  {
+    "struttura": "Ospedale civile SS. Antonio e Biagio",
+    "indirizzo": "Via Venezia 16, 15121 Alessandria (AL)",
+    "provincia": "Alessandria",
+    "totale_ivg": 184,
+    "percentuale_farmacologiche": 65.8
+  },
+  {
+    "struttura": "Presidio ospedaliero San Giacomo d'Altopasso",
+    "indirizzo": "Contrada Cannavecchia, 92027 Licata (AG)",
+    "provincia": "Agrigento",
+    "totale_ivg": 79,
+    "percentuale_farmacologiche": 65.8
+  },
+  {
+    "struttura": "Stabilimento Ospedaliero di Imperia",
+    "indirizzo": "Via Sant’Agata 57, 18100 Imperia (IM)",
+    "provincia": "Imperia",
+    "totale_ivg": 312,
+    "percentuale_farmacologiche": 65.4
+  },
+  {
+    "struttura": "Ospedale Civile di Cecina",
+    "indirizzo": "Via Montanara 52b, 47023 Cecina (LI)",
+    "provincia": "Livorno",
+    "totale_ivg": 95,
+    "percentuale_farmacologiche": 65.3
+  },
+  {
+    "struttura": "Nuovo Ospedale Santo Stefano",
+    "indirizzo": "Via Suor Niccolina Infermiera 20/22, 59100 Prato (PO)",
+    "provincia": "Prato",
+    "totale_ivg": 489,
+    "percentuale_farmacologiche": 65.2
+  },
+  {
+    "struttura": "Ospedale Sant’Eugenio",
+    "indirizzo": "Piazzale dell'Umanesimo 10, 00144 Roma (RM)",
+    "provincia": "Roma",
+    "totale_ivg": 256,
+    "percentuale_farmacologiche": 65.2
+  },
+  {
+    "struttura": "Ospedale civile Destra Secchia Pieve Coriano",
+    "indirizzo": "Via Bugatte 1, 46020 Borgo Mantovano (MN)",
+    "provincia": "Mantova",
+    "totale_ivg": 67,
+    "percentuale_farmacologiche": 64.2
+  },
+  {
+    "struttura": "Presidio Ospedaliero Nostra Signora di Bonaria",
+    "indirizzo": "Via Roma 1, 09038 San Gavino Monreale (SU)",
+    "provincia": "Sud Sardegna",
+    "totale_ivg": 78,
+    "percentuale_farmacologiche": 64.1
+  },
+  {
+    "struttura": "Ospedale Piero Palagi",
+    "indirizzo": "Viale Michelangelo 41, 50125 Firenze (FI)",
+    "provincia": "Firenze",
+    "totale_ivg": 758,
+    "percentuale_farmacologiche": 63.9
+  },
+  {
+    "struttura": "Ospedale San Giuseppe",
+    "indirizzo": "Viale Boccaccio, 50053 Empoli (FI)",
+    "provincia": "Firenze",
+    "totale_ivg": 160,
+    "percentuale_farmacologiche": 63.8
+  },
+  {
+    "struttura": "Ospedale di Conegliano",
+    "indirizzo": "Via Brigata Bisagno 4, 31015 Conegliano (TV)",
+    "provincia": "Treviso",
+    "totale_ivg": 188,
+    "percentuale_farmacologiche": 63.8
+  },
+  {
+    "struttura": "Ospedale Scorrano",
+    "indirizzo": "Via Delli Ponti, 73020 Scorrano (LE)",
+    "provincia": "Lecce",
+    "totale_ivg": 79,
+    "percentuale_farmacologiche": 63.3
+  },
+  {
+    "struttura": "Azienda Ospedaliera Cardarelli",
+    "indirizzo": "Via Cardarelli 9, 80131 Napoli (NA)",
+    "provincia": "Napoli",
+    "totale_ivg": 171,
+    "percentuale_farmacologiche": 63.2
+  },
+  {
+    "struttura": "Nuovo Ospedale di Broni e Stradella",
+    "indirizzo": "Via Achilli 3, 27049 Stradella (PV)",
+    "provincia": "Pavia",
+    "totale_ivg": 40,
+    "percentuale_farmacologiche": 62.5
+  },
+  {
+    "struttura": "Ospedale Santo Spirito",
+    "indirizzo": "Viale Giolitti Giovanni 2, 15033 Casale Monferrato (AL)",
+    "provincia": "Alessandria",
+    "totale_ivg": 97,
+    "percentuale_farmacologiche": 62.4
+  },
+  {
+    "struttura": "Ospedale Lecce Fazzi",
+    "indirizzo": "Piazzetta Muratore, 73100 Lecce (LE)",
+    "provincia": "Lecce",
+    "totale_ivg": 644,
+    "percentuale_farmacologiche": 61.6
+  },
+  {
+    "struttura": "Ospedale di Schiavonia",
+    "indirizzo": "Via Albere 30, 35043 Monselice (PD)",
+    "provincia": "Padova",
+    "totale_ivg": 220,
+    "percentuale_farmacologiche": 61.4
+  },
+  {
+    "struttura": "Ospedale Sandro Pertini",
+    "indirizzo": "Via Monti Tiburtini 385, 00157 Roma (RM)",
+    "provincia": "Roma",
+    "totale_ivg": 692,
+    "percentuale_farmacologiche": 61.0
+  },
+  {
+    "struttura": "Azienda Ospedaliera San Giuseppe Moscati",
+    "indirizzo": "Contrada Amoretta, 83100 Avellino (AV)",
+    "provincia": "Avellino",
+    "totale_ivg": 734,
+    "percentuale_farmacologiche": 60.9
+  },
+  {
+    "struttura": "Ospedale di Livorno",
+    "indirizzo": "Viale Alfieri 36, 57124 Livorno (LI)",
+    "provincia": "Livorno",
+    "totale_ivg": 219,
+    "percentuale_farmacologiche": 60.3
+  },
+  {
+    "struttura": "Ospedale Anzio Nettuno",
+    "indirizzo": "Via Cupa dei Marmi, 00042 Anzio (RM)",
+    "provincia": "Roma",
+    "totale_ivg": 123,
+    "percentuale_farmacologiche": 60.2
+  },
+  {
+    "struttura": "Ospedale San Giacomo Novi",
+    "indirizzo": "Via Raggio Edilio 12 , 15067 Novi Ligure (AL)",
+    "provincia": "Alessandria",
+    "totale_ivg": 150,
+    "percentuale_farmacologiche": 60.0
+  },
+  {
+    "struttura": "Ospedale dell'alta Val d'Elsa",
+    "indirizzo": "Località Campostaggia, 53036 Poggibonsi (SI)",
+    "provincia": "Siena",
+    "totale_ivg": 69,
+    "percentuale_farmacologiche": 59.4
+  },
+  {
+    "struttura": "Presidio Ospedaliero San Giuseppe Moscati",
+    "indirizzo": "Via Gramsci, 81031 Aversa (CE)",
+    "provincia": "Caserta",
+    "totale_ivg": 149,
+    "percentuale_farmacologiche": 59.1
+  },
+  {
+    "struttura": "Azienda ospedaliera universitaria Careggi",
+    "indirizzo": "Largo Brambilla 3, 50134 Firenze (FI)",
+    "provincia": "Firenze",
+    "totale_ivg": 463,
+    "percentuale_farmacologiche": 57.7
+  },
+  {
+    "struttura": "Ospedale di Treviso",
+    "indirizzo": "Piazzale Ospedale 1, 31100 Treviso (TV)",
+    "provincia": "Treviso",
+    "totale_ivg": 336,
+    "percentuale_farmacologiche": 57.4
+  },
+  {
+    "struttura": "Ospedale di Montebelluna",
+    "indirizzo": "Via Togliatti 1, 31044 Montebelluna (TV)",
+    "provincia": "Treviso",
+    "totale_ivg": 130,
+    "percentuale_farmacologiche": 56.2
+  },
+  {
+    "struttura": "Azienda ospedaliera San Camillo Forlanini",
+    "indirizzo": "Circonvallazione Gianicolense 87, 00152 Roma (RM)",
+    "provincia": "Roma",
+    "totale_ivg": 1504,
+    "percentuale_farmacologiche": 56.2
+  },
+  {
+    "struttura": "Presidio ospedaliero Spirito Santo",
+    "indirizzo": "Via Paolini 47, 65124 Pescara (PE)",
+    "provincia": "Pescara",
+    "totale_ivg": 36,
+    "percentuale_farmacologiche": 55.6
+  },
+  {
+    "struttura": "Ospedale Aziendale di Merano",
+    "indirizzo": "Via Rossini 5, 39012 Merano (BZ)",
+    "provincia": "Bolzano",
+    "totale_ivg": 170,
+    "percentuale_farmacologiche": 55.3
+  },
+  {
+    "struttura": "Ospedale di Vizzolo Predabissi",
+    "indirizzo": "Via Pandina 1, 20070 Vizzolo Predabissi (MI)",
+    "provincia": "Milano",
+    "totale_ivg": 198,
+    "percentuale_farmacologiche": 54.5
+  },
+  {
+    "struttura": "Azienda Ospedale San Giovanni Addolorata",
+    "indirizzo": "Via dell`Amba Aradam 9, 00184 Roma (RM)",
+    "provincia": "Roma",
+    "totale_ivg": 931,
+    "percentuale_farmacologiche": 54.5
+  },
+  {
+    "struttura": "Ospedale San Carlo Borromeo",
+    "indirizzo": "Via Pio II 3, 20153 Milano (MI)",
+    "provincia": "Milano",
+    "totale_ivg": 421,
+    "percentuale_farmacologiche": 54.4
+  },
+  {
+    "struttura": "Azienda ospedaliera universitaria Giaccone",
+    "indirizzo": "Via del Vespro 129, 90127 Palermo (PA)",
+    "provincia": "Palermo",
+    "totale_ivg": 117,
+    "percentuale_farmacologiche": 54.4
+  },
+  {
+    "struttura": "Ospedale Grassi",
+    "indirizzo": "Via Passeroni 30, 00122 Roma (RM)",
+    "provincia": "Roma",
+    "totale_ivg": 313,
+    "percentuale_farmacologiche": 54.3
+  },
+  {
+    "struttura": "Ospedale della Misericordia",
+    "indirizzo": "Via Senese 169, 58100 Grosseto (GR)",
+    "provincia": "Grosseto",
+    "totale_ivg": 210,
+    "percentuale_farmacologiche": 53.8
+  },
+  {
+    "struttura": "Stabilimento di Senigallia",
+    "indirizzo": "Via Cellini 1, 60019 Senigallia (AN)",
+    "provincia": "Ancona",
+    "totale_ivg": 183,
+    "percentuale_farmacologiche": 53.6
+  },
+  {
+    "struttura": "Ospedale di Cremona",
+    "indirizzo": "Via Largo Priori 1, 26100 Cremona (CR)",
+    "provincia": "Cremona",
+    "totale_ivg": 238,
+    "percentuale_farmacologiche": 53.4
+  },
+  {
+    "struttura": "Ospedale di Vicenza",
+    "indirizzo": "Viale Rodolfi 37, 36100 Vicenza (VI)",
+    "provincia": "Vicenza",
+    "totale_ivg": 293,
+    "percentuale_farmacologiche": 52.2
+  },
+  {
+    "struttura": "Ospedale Versilia",
+    "indirizzo": "Via Aurelia 335, 55043 Camaiore (LU)",
+    "provincia": "Lucca",
+    "totale_ivg": 144,
+    "percentuale_farmacologiche": 52.1
+  },
+  {
+    "struttura": "Ospedale Civico",
+    "indirizzo": "Piazza Nicola leotta, 90127 Palermo Pa, 90127 Palermo (PA)",
+    "provincia": "Palermo",
+    "totale_ivg": 445,
+    "percentuale_farmacologiche": 52.1
+  },
+  {
+    "struttura": "Azienda ospedaliera Universitaria Federico II",
+    "indirizzo": "Via Sergio Pansini 5, 80100 Napoli (NA)",
+    "provincia": "Napoli",
+    "totale_ivg": 813,
+    "percentuale_farmacologiche": 52.1
+  },
+  {
+    "struttura": "Presidio ospedaliero universitario Santa Maria della Misericordia",
+    "indirizzo": "Piazzale Santa Maria della Misericordia 15, 33100 Udine (UD)",
+    "provincia": "Udine",
+    "totale_ivg": 262,
+    "percentuale_farmacologiche": 51.9
+  },
+  {
+    "struttura": "Ospedale di Circolo San Leopoldo Mandic",
+    "indirizzo": "Largo San Leopoldo Mandic 1, 23807 Merate (LC)",
+    "provincia": "Lecco",
+    "totale_ivg": 92,
+    "percentuale_farmacologiche": 51.7
+  },
+  {
+    "struttura": "Presidio Ospedaliero San Martino",
+    "indirizzo": "Via Rockefeller snc, 09170 Oristano (OR)",
+    "provincia": "Oristano",
+    "totale_ivg": 64,
+    "percentuale_farmacologiche": 51.6
+  },
+  {
+    "struttura": "Presidio ospedaliero Buzzi",
+    "indirizzo": "Via Castelvetro 32, 20154 Milano (MI)",
+    "provincia": "Milano",
+    "totale_ivg": 443,
+    "percentuale_farmacologiche": 51.0
+  },
+  {
+    "struttura": "Ospedale Sacco",
+    "indirizzo": "Via Giovan Battista Grassi 74, 20157 Milano (MI)",
+    "provincia": "Milano",
+    "totale_ivg": 248,
+    "percentuale_farmacologiche": 50.4
+  },
+  {
+    "struttura": "Ospedali Galliera",
+    "indirizzo": "Mura Delle Cappuccine 14, 16128 Genova (GE)",
+    "provincia": "Genova",
+    "totale_ivg": 4,
+    "percentuale_farmacologiche": 50.0
+  },
+  {
+    "struttura": "Ospedale di Villafranca",
+    "indirizzo": "Via Ospedale 2, 37069 Villafranca di Verona (VR)",
+    "provincia": "Verona",
+    "totale_ivg": 167,
+    "percentuale_farmacologiche": 49.1
+  },
+  {
+    "struttura": "Azienda ospedaliera universitaria Senese",
+    "indirizzo": "Viale Bracci località Le Scotte, 53100 Siena (SI)",
+    "provincia": "Siena",
+    "totale_ivg": 161,
+    "percentuale_farmacologiche": 49.1
+  },
+  {
+    "struttura": "Istituto Gaslini",
+    "indirizzo": "Via Gaslini 5, 16147 Genova (GE)",
+    "provincia": "Genova",
+    "totale_ivg": 31,
+    "percentuale_farmacologiche": 48.4
+  },
+  {
+    "struttura": "Presidio Ospedaliero San Salvatore",
+    "indirizzo": "Via Vetoio Coppito, 67100 L'Aquila (AQ)",
+    "provincia": "L’Aquila",
+    "totale_ivg": 85,
+    "percentuale_farmacologiche": 48.2
+  },
+  {
+    "struttura": "Azienda Ospedaliera Santa Maria",
+    "indirizzo": "Via Tristano di Joannuccio, 05100 Terni (TR)",
+    "provincia": "Terni",
+    "totale_ivg": 161,
+    "percentuale_farmacologiche": 47.8
+  },
+  {
+    "struttura": "Ospedale di Circolo Causa Pia Luvini",
+    "indirizzo": "Via Luvini 1, 21033 Cittiglio (VA)",
+    "provincia": "Varese",
+    "totale_ivg": 310,
+    "percentuale_farmacologiche": 47.7
+  },
+  {
+    "struttura": "Consorziale Policlinico Bari",
+    "indirizzo": "Piazza Giulio Cesare 11, 70124 Bari (BA)",
+    "provincia": "Bari",
+    "totale_ivg": 17,
+    "percentuale_farmacologiche": 47.1
+  },
+  {
+    "struttura": "Azienda Ospedaliera Universitaria Unicam",
+    "indirizzo": "Via Costantinopoli 104, 80138 Napoli (NA)",
+    "provincia": "Napoli",
+    "totale_ivg": 251,
+    "percentuale_farmacologiche": 46.0
+  },
+  {
+    "struttura": "Polo Ospedaliero Santo Spirito",
+    "indirizzo": "Lungotevere in Sassia 1, 00193 Roma (RM)",
+    "provincia": "Roma",
+    "totale_ivg": 483,
+    "percentuale_farmacologiche": 45.8
+  },
+  {
+    "struttura": "Ospedale di Santorso",
+    "indirizzo": "Via Garziere 42, 36014 Santorso (VI)",
+    "provincia": "Vicenza",
+    "totale_ivg": 223,
+    "percentuale_farmacologiche": 45.7
+  },
+  {
+    "struttura": "Ospedale Ca' Granda Niguarda",
+    "indirizzo": "Piazza Ospedale Maggiore 3, 20162 Milano (MI)",
+    "provincia": "Milano",
+    "totale_ivg": 594,
+    "percentuale_farmacologiche": 45.5
+  },
+  {
+    "struttura": "Ospedale Centrale",
+    "indirizzo": "Via Boehler 5, 39100 Bolzano (BZ)",
+    "provincia": "Bolzano",
+    "totale_ivg": 377,
+    "percentuale_farmacologiche": 44.8
+  },
+  {
+    "struttura": "Azienda ospedaliero universitaria Pisana",
+    "indirizzo": "Via Roma 67, 56126 Pisa (PI)",
+    "provincia": "Pisa",
+    "totale_ivg": 156,
+    "percentuale_farmacologiche": 44.2
+  },
+  {
+    "struttura": "Azienda Ospedale Universtiaria Martino",
+    "indirizzo": "Viale Gazzi, 98124 Messina (ME)",
+    "provincia": "Messina",
+    "totale_ivg": 340,
+    "percentuale_farmacologiche": 44.2
+  },
+  {
+    "struttura": "Stabilimento di San Benedetto",
+    "indirizzo": "Via Silvio Pellico 68, 63074 San Benedetto del Tronto (AP)",
+    "provincia": "Ascoli Piceno",
+    "totale_ivg": 58,
+    "percentuale_farmacologiche": 43.1
+  },
+  {
+    "struttura": "Policlinico San Matteo",
+    "indirizzo": "Viale Golgi 19, 27100 Pavia (PV)",
+    "provincia": "Pavia",
+    "totale_ivg": 302,
+    "percentuale_farmacologiche": 43.0
+  },
+  {
+    "struttura": "Ospedale di Mirano",
+    "indirizzo": "Via Don Giacobbe Sartor 4, 30035 Mirano (VE)",
+    "provincia": "Venezia",
+    "totale_ivg": 182,
+    "percentuale_farmacologiche": 42.3
+  },
+  {
+    "struttura": "Aoui Borgo Trento",
+    "indirizzo": "Piazzale Stefani 1, 37126 Verona (VR)",
+    "provincia": "Verona",
+    "totale_ivg": 516,
+    "percentuale_farmacologiche": 41.9
+  },
+  {
+    "struttura": "Presidio ospedaliero Santa Maria degli Angeli",
+    "indirizzo": "Via Montereale 24, 33170 Pordenone (PN)",
+    "provincia": "Pordenone",
+    "totale_ivg": 53,
+    "percentuale_farmacologiche": 41.5
+  },
+  {
+    "struttura": "Ospedale Civile",
+    "indirizzo": "Corso Milano 19, 27029 Vigevano (PV)",
+    "provincia": "Pavia",
+    "totale_ivg": 189,
+    "percentuale_farmacologiche": 41.3
+  },
+  {
+    "struttura": "Presidio Ospedaliero Nord",
+    "indirizzo": "Via Scaravelli snc, 04100 Latina (LT)",
+    "provincia": "Latina",
+    "totale_ivg": 354,
+    "percentuale_farmacologiche": 40.7
+  },
+  {
+    "struttura": "Stabilimento di Urbino",
+    "indirizzo": "Via Comandino 70, 61029 Urbino (PU)",
+    "provincia": "Pesaro Urbino",
+    "totale_ivg": 46,
+    "percentuale_farmacologiche": 39.1
+  },
+  {
+    "struttura": "Presidio Ospedaliero di Desio",
+    "indirizzo": "Via Mazzini 1, 20832 Desio (MB)",
+    "provincia": "Monza e Brianza",
+    "totale_ivg": 194,
+    "percentuale_farmacologiche": 38.7
+  },
+  {
+    "struttura": "Spedali Civili",
+    "indirizzo": "Piazzale Spedali Civili 1, 25123 Brescia (BS)",
+    "provincia": "Brescia",
+    "totale_ivg": 783,
+    "percentuale_farmacologiche": 38.7
+  },
+  {
+    "struttura": "Stabilimento di Fano",
+    "indirizzo": "Via Vittorio Veneto 2, 61032 Fano (PU)",
+    "provincia": "Pesaro Urbino",
+    "totale_ivg": 158,
+    "percentuale_farmacologiche": 38.6
+  },
+  {
+    "struttura": "Presidio ospedaliero Città di Sesto San Giovanni",
+    "indirizzo": "Viale Matteotti 83, 20099 Sesto San Giovanni (MI)",
+    "provincia": "Milano",
+    "totale_ivg": 311,
+    "percentuale_farmacologiche": 38.1
+  },
+  {
+    "struttura": "Presidio ospedaliero Sant’Antonio Abate",
+    "indirizzo": "Via Cosenza, 82, 91016 Erice (TP)",
+    "provincia": "Trapani",
+    "totale_ivg": 257,
+    "percentuale_farmacologiche": 38.1
+  },
+  {
+    "struttura": "Azienda ospedaliera San Giovanni di Dio e Ruggi",
+    "indirizzo": "Via San Leonardo, 84131 Salerno (SA)",
+    "provincia": "Salerno",
+    "totale_ivg": 385,
+    "percentuale_farmacologiche": 37.8
+  },
+  {
+    "struttura": "Ospedale Maggiore",
+    "indirizzo": "Largo Ugo Dossena 2, 26013 Crema (CR)",
+    "provincia": "Cremona",
+    "totale_ivg": 104,
+    "percentuale_farmacologiche": 36.6
+  },
+  {
+    "struttura": "Ospedale di Treviglio e Caravaggio",
+    "indirizzo": "Piazzale Ospedale Luigi Meneguzzo 1, 24047 Treviglio (BG)",
+    "provincia": "Bergamo",
+    "totale_ivg": 14,
+    "percentuale_farmacologiche": 35.7
+  },
+  {
+    "struttura": "Ospedale Bolognini",
+    "indirizzo": "Via Paderno 21, 24068 Seriate (BG)",
+    "provincia": "Bergamo",
+    "totale_ivg": 15,
+    "percentuale_farmacologiche": 35.7
+  },
+  {
+    "struttura": "Stabilimento Cliniche di San Pietro",
+    "indirizzo": "Viale San Pietro 43, 07100 Sassari (SS)",
+    "provincia": "Sassari",
+    "totale_ivg": 248,
+    "percentuale_farmacologiche": 35.5
+  },
+  {
+    "struttura": "Ospedale Melloni",
+    "indirizzo": "Via Macedonio Melloni 52, 20129 Milano (MI)",
+    "provincia": "Milano",
+    "totale_ivg": 244,
+    "percentuale_farmacologiche": 35.2
+  },
+  {
+    "struttura": "Ospedale Salvini",
+    "indirizzo": "Viale Forlanini 95, 20024 Garbagnate Milanese (MI)",
+    "provincia": "Milano",
+    "totale_ivg": 184,
+    "percentuale_farmacologiche": 34.8
+  },
+  {
+    "struttura": "Ospedale Nuovo Valdarno",
+    "indirizzo": "Piazza del Volontariato 2 località Gruccia, 52025 Montevarchi (AR)",
+    "provincia": "Arezzo",
+    "totale_ivg": 102,
+    "percentuale_farmacologiche": 34.3
+  },
+  {
+    "struttura": "Ospedale Sant'Andrea",
+    "indirizzo": "Corso Abbiate Mario 21, 13100 Vercelli (VC)",
+    "provincia": "Vercelli",
+    "totale_ivg": 3,
+    "percentuale_farmacologiche": 33.3
+  },
+  {
+    "struttura": "Ospedale San Giovanni Battista",
+    "indirizzo": "Via Arcamone, 06034 Foligno (PG)",
+    "provincia": "Perugia",
+    "totale_ivg": 42,
+    "percentuale_farmacologiche": 33.3
+  },
+  {
+    "struttura": "Policlinico di Milano Ospedale Maggiore Fondazione IRCCS Ca' Granda",
+    "indirizzo": "Via Francesco Sforza 28, 20122 Milano (MI)",
+    "provincia": "Milano",
+    "totale_ivg": 1166,
+    "percentuale_farmacologiche": 33.0
+  },
+  {
+    "struttura": "Ospedale Sondrio",
+    "indirizzo": "Via Stelvio 25, 23100 Sondrio (SO)",
+    "provincia": "Sondrio",
+    "totale_ivg": 122,
+    "percentuale_farmacologiche": 32.8
+  },
+  {
+    "struttura": "Presidio Ospedaliero di Vimercate",
+    "indirizzo": "Via Santi Cosma e Damiano 10, 20871 Vimercate (MB)",
+    "provincia": "Monza e Brianza",
+    "totale_ivg": 369,
+    "percentuale_farmacologiche": 32.0
+  },
+  {
+    "struttura": "Presidio Ospedaliero di Carate",
+    "indirizzo": "Via Mosè Bianchi 9, 20841 Carate Brianza (MB)",
+    "provincia": "Monza e Brianza",
+    "totale_ivg": 121,
+    "percentuale_farmacologiche": 31.4
+  },
+  {
+    "struttura": "Stabilimento di Macerata",
+    "indirizzo": "Via Santa Lucia 2, 62100 Macerata (MC)",
+    "provincia": "Macerata",
+    "totale_ivg": 286,
+    "percentuale_farmacologiche": 31.1
+  },
+  {
+    "struttura": "Ospedale Papa Giovanni XXIII",
+    "indirizzo": "Piazza Oms 1, 24127 Bergamo (BG)",
+    "provincia": "Bergamo",
+    "totale_ivg": 407,
+    "percentuale_farmacologiche": 29.7
+  },
+  {
+    "struttura": "Ospedale di Manerbio",
+    "indirizzo": "Via Lungomella Valsecchi 2 , 25025 Manerbio (BS)",
+    "provincia": "Brescia",
+    "totale_ivg": 138,
+    "percentuale_farmacologiche": 29.0
+  },
+  {
+    "struttura": "Presidio ospedaliero De Luca e Rossano",
+    "indirizzo": "Via Caccioppoli, 80069 Vico Equense (NA)",
+    "provincia": "Napoli",
+    "totale_ivg": 327,
+    "percentuale_farmacologiche": 28.4
+  },
+  {
+    "struttura": "Presidio ospedaliero Monfalcone",
+    "indirizzo": "Via Galvani 1, 34074 Monfalcone (GO)",
+    "provincia": "Gorizia",
+    "totale_ivg": 133,
+    "percentuale_farmacologiche": 27.1
+  },
+  {
+    "struttura": "Ospedale di Bassano",
+    "indirizzo": "Via Dei Lotti 40, 36061 Bassano Del Grappa (VI)",
+    "provincia": "Vicenza",
+    "totale_ivg": 73,
+    "percentuale_farmacologiche": 26.0
+  },
+  {
+    "struttura": "Ospedale San Jacopo",
+    "indirizzo": "Via Ciliegiole 97, 51100 Pistoia (PT)",
+    "provincia": "Pistoia",
+    "totale_ivg": 8,
+    "percentuale_farmacologiche": 25.0
+  },
+  {
+    "struttura": "Ospedale di Borgo San Lorenzo",
+    "indirizzo": "Viale della Resistenza, 50032 Borgo San Lorenzo (FI)",
+    "provincia": "Firenze",
+    "totale_ivg": 16,
+    "percentuale_farmacologiche": 25.0
+  },
+  {
+    "struttura": "Presidio ospedaliero Giovanni Paolo II",
+    "indirizzo": "Via Bazzoni Sircana, 07026 Olbia Ss, 07026 Olbia (SS)",
+    "provincia": "Sassari",
+    "totale_ivg": 206,
+    "percentuale_farmacologiche": 24.3
+  },
+  {
+    "struttura": "Ospedale di San Bonifacio",
+    "indirizzo": "Via Circonvallazione, 37047 San Bonifacio (VR)",
+    "provincia": "Verona",
+    "totale_ivg": 127,
+    "percentuale_farmacologiche": 23.6
+  },
+  {
+    "struttura": "Clinica Sant’Anna",
+    "indirizzo": "Via Roma 124, 81100 Caserta (CE)",
+    "provincia": "Caserta",
+    "totale_ivg": 797,
+    "percentuale_farmacologiche": 21.2
+  },
+  {
+    "struttura": "Ospedale SS. Annunziata",
+    "indirizzo": "Via Bruno, 74121 Taranto (TA)",
+    "provincia": "Taranto",
+    "totale_ivg": 181,
+    "percentuale_farmacologiche": 20.4
+  },
+  {
+    "struttura": "Ospedale San Giovanni di Dio Torregalli",
+    "indirizzo": "Via Torre Galli 3, 50143 Firenze (FI)",
+    "provincia": "Firenze",
+    "totale_ivg": 10,
+    "percentuale_farmacologiche": 20.0
+  },
+  {
+    "struttura": "Policlinico Umberto I",
+    "indirizzo": "Viale del Policlinico 155, 00161 Roma (RM)",
+    "provincia": "Roma",
+    "totale_ivg": 137,
+    "percentuale_farmacologiche": 19.7
+  },
+  {
+    "struttura": "Ospedalele SS Trinità",
+    "indirizzo": "Via San Francesco d'Assisi 12, 24058 Romano di Lombardia (BG)",
+    "provincia": "Bergamo",
+    "totale_ivg": 151,
+    "percentuale_farmacologiche": 17.9
+  },
+  {
+    "struttura": "Presidio ospedaliero San Giovanni di Dio",
+    "indirizzo": "Contradada Consolida, 92100 Agrigento (AG)",
+    "provincia": "Agrigento",
+    "totale_ivg": 106,
+    "percentuale_farmacologiche": 15.1
+  },
+  {
+    "struttura": "Ospedale di Circolo",
+    "indirizzo": "Corso Europa 250, 20017 Rho (MI)",
+    "provincia": "Milano",
+    "totale_ivg": 7,
+    "percentuale_farmacologiche": 14.3
+  },
+  {
+    "struttura": "Polo Ospedaliero Unico Integrato",
+    "indirizzo": "Viale Kennedy, 2100 Rieti (RI)",
+    "provincia": "Rieti",
+    "totale_ivg": 81,
+    "percentuale_farmacologiche": 13.6
+  },
+  {
+    "struttura": "Azienda Ospedaliera di Perugia",
+    "indirizzo": "Piazzale Giorgio Menghini 8/9, 06129 Perugia (PG)",
+    "provincia": "Perugia",
+    "totale_ivg": 111,
+    "percentuale_farmacologiche": 13.5
+  },
+  {
+    "struttura": "Azienda ospedaliera per l'emergenza Cannizzaro",
+    "indirizzo": "Via Messina 829, 95126 Catania (CT)",
+    "provincia": "Catania",
+    "totale_ivg": 172,
+    "percentuale_farmacologiche": 12.8
+  },
+  {
+    "struttura": "Presidio ospedaliero San Paolo",
+    "indirizzo": "Via Terracina 219, 80125 Napoli (NA)",
+    "provincia": "Napoli",
+    "totale_ivg": 532,
+    "percentuale_farmacologiche": 9.4
+  },
+  {
+    "struttura": "Ospedale Cerignola Tatarella",
+    "indirizzo": "Via Arcangelo Murgolo, 71042 Cerignola (FG)",
+    "provincia": "Foggia",
+    "totale_ivg": 331,
+    "percentuale_farmacologiche": 8.5
+  },
+  {
+    "struttura": "Presidio ospedaliero di Maria Avola",
+    "indirizzo": "Contrada Chiusa di Carlo, 96012 Avola (SR)",
+    "provincia": "Siracusa",
+    "totale_ivg": 37,
+    "percentuale_farmacologiche": 8.1
+  },
+  {
+    "struttura": "Presidio ospedaliero Umberto I",
+    "indirizzo": "Via Testaferrata 1, 96100 Siracusa (SR)",
+    "provincia": "Siracusa",
+    "totale_ivg": 224,
+    "percentuale_farmacologiche": 7.6
+  },
+  {
+    "struttura": "Stabilimento Salesi",
+    "indirizzo": "Via Corridoni 11-16, 60100 Ancona (AN)",
+    "provincia": "Ancona",
+    "totale_ivg": 40,
+    "percentuale_farmacologiche": 7.5
+  },
+  {
+    "struttura": "Presidio Ospedaliero Rummo",
+    "indirizzo": "Via Pacevecchia 53, 82100 Benevento (BN)",
+    "provincia": "Benevento",
+    "totale_ivg": 176,
+    "percentuale_farmacologiche": 7.4
+  },
+  {
+    "struttura": "Istituto SS. Trinità",
+    "indirizzo": "Viale Zoppis 10, 28021 Borgomanero (NO)",
+    "provincia": "Novara",
+    "totale_ivg": 28,
+    "percentuale_farmacologiche": 7.1
+  },
+  {
+    "struttura": "Azienda ospedaliera Sant'Anna e San Sebastiano",
+    "indirizzo": "Via Palasciano, 81100 Caserta (CE)",
+    "provincia": "Caserta",
+    "totale_ivg": 114,
+    "percentuale_farmacologiche": 7.0
+  },
+  {
+    "struttura": "Presidio ospedaliero Giovanni Paolo II",
+    "indirizzo": "Via Pompei - contrada Seniazza, 92019 Sciacca (AG)",
+    "provincia": "Agrigento",
+    "totale_ivg": 89,
+    "percentuale_farmacologiche": 6.7
+  },
+  {
+    "struttura": "Nuovo Ospedale Garibaldi - Nesima",
+    "indirizzo": "Via Palermo 636, 95122 Catania (CT)",
+    "provincia": "Catania",
+    "totale_ivg": 650,
+    "percentuale_farmacologiche": 6.5
+  },
+  {
+    "struttura": "Ospedale Santa Maria Annunziata",
+    "indirizzo": "Via dell'Antella 58, 50012 Bagno a Ripoli (FI)",
+    "provincia": "Firenze",
+    "totale_ivg": 16,
+    "percentuale_farmacologiche": 6.3
+  },
+  {
+    "struttura": "Ospedale di Chioggia",
+    "indirizzo": "Strada Madonna Marina 500, 30015 Chioggia (VE)",
+    "provincia": "Venezia",
+    "totale_ivg": 63,
+    "percentuale_farmacologiche": 6.3
+  },
+  {
+    "struttura": "Ospedale delle Apuane",
+    "indirizzo": "Via Mattei 21, 54100 Massa (MS)",
+    "provincia": "Massa Carrara",
+    "totale_ivg": 66,
+    "percentuale_farmacologiche": 6.1
+  },
+  {
+    "struttura": "Fondazione Irccs San Gerardo dei Tintori",
+    "indirizzo": "Via Giovanni Battista Pergolesi 33, 20090 Monza (MB)",
+    "provincia": "Monza e Brianza",
+    "totale_ivg": 83,
+    "percentuale_farmacologiche": 6.0
+  },
+  {
+    "struttura": "Azienda ospedaliera universitaria di Padova",
+    "indirizzo": "Via Giustiniani 1, 35128 Padova (PD)",
+    "provincia": "Padova",
+    "totale_ivg": 257,
+    "percentuale_farmacologiche": 4.7
+  },
+  {
+    "struttura": "Presidio ospedaliero Palmanova",
+    "indirizzo": "Via Natisone 11, 33057 Palmanova (UD)",
+    "provincia": "Udine",
+    "totale_ivg": 24,
+    "percentuale_farmacologiche": 4.2
+  },
+  {
+    "struttura": "Ospedali Riuniti",
+    "indirizzo": "Viale Luigi Pinto 1, 71222 Foggia (FG)",
+    "provincia": "Foggia",
+    "totale_ivg": 416,
+    "percentuale_farmacologiche": 4.1
+  },
+  {
+    "struttura": "Ospedale Civile",
+    "indirizzo": "Via Papa Giovanni Paolo II, 20025 Legnano (MI)",
+    "provincia": "Milano",
+    "totale_ivg": 97,
+    "percentuale_farmacologiche": 2.1
+  },
+  {
+    "struttura": "Ospedale Filippo Del Ponte",
+    "indirizzo": "Via Filippo Del Ponte 19, 21100 Varese (VA)",
+    "provincia": "Varese",
+    "totale_ivg": 50,
+    "percentuale_farmacologiche": 2.0
+  },
+  {
+    "struttura": "Presidio Ospedaliero di Chiari",
+    "indirizzo": "Viale Mazzini 8, 25032 Chiari (BS)",
+    "provincia": "Brescia",
+    "totale_ivg": 71,
+    "percentuale_farmacologiche": 1.4
+  },
+  {
+    "struttura": "Presidio ospedaliero Ingrassia",
+    "indirizzo": "Corso calatafimi, 1002, 90100 Palermo (PA)",
+    "provincia": "Palermo",
+    "totale_ivg": 83,
+    "percentuale_farmacologiche": 1.2
+  },
+  {
+    "struttura": "Presidio Ospedaliero San Marco",
+    "indirizzo": "Viale Carlo Azeglio Ciampi, 95121 Catania (CT)",
+    "provincia": "Catania",
+    "totale_ivg": 145,
+    "percentuale_farmacologiche": 0.7
+  },
+  {
+    "struttura": "Ospedale di Savigliano",
+    "indirizzo": "Via Ospedali 5, 12038 Savigliano (CN)",
+    "provincia": "Cuneo",
+    "totale_ivg": 50,
+    "percentuale_farmacologiche": 0.0
+  },
+  {
+    "struttura": "Ospedale di Circolo ",
+    "indirizzo": "Via Arnaldo da Brescia 1, 21052 Busto Arsizio (VA)",
+    "provincia": "Varese",
+    "totale_ivg": 57,
+    "percentuale_farmacologiche": 0.0
+  },
+  {
+    "struttura": "Ospedale Fornaroli",
+    "indirizzo": "Via al Donatore di Sangue 50, 20013 Magenta (MI)",
+    "provincia": "Milano",
+    "totale_ivg": 107,
+    "percentuale_farmacologiche": 0.0
+  },
+  {
+    "struttura": "Evangelico Internazionale Castelletto",
+    "indirizzo": "Salita Superiore San Rocchino 31/A/,16122 Genova (GE)",
+    "provincia": "Genova",
+    "totale_ivg": 4,
+    "percentuale_farmacologiche": 0.0
+  },
+  {
+    "struttura": "Presidio ospedaliero Microcitemico Cao",
+    "indirizzo": "Via Jenner, 09121 Cagliari (CA)",
+    "provincia": "Cagliari",
+    "totale_ivg": 12,
+    "percentuale_farmacologiche": 0.0
+  },
+  {
+    "struttura": "Casa di Cura Sant’Anna srl",
+    "indirizzo": "Via La Vega 9, 09127 Cagliari (CA)",
+    "provincia": "Cagliari",
+    "totale_ivg": 70,
+    "percentuale_farmacologiche": 0.0
+  },
+  {
+    "struttura": "Stabilimento Cantù",
+    "indirizzo": "Via Domea 4, 22063 Cantù (CO)",
+    "provincia": "Como",
+    "totale_ivg": 228,
+    "percentuale_farmacologiche": 0.0
+  },
+  {
+    "struttura": "Casa di Cura Villa Elena",
+    "indirizzo": "Via Dante 133, 09128 Cagliari (CA)",
+    "provincia": "Cagliari",
+    "totale_ivg": 60,
+    "percentuale_farmacologiche": 0.0
+  },
+  {
+    "struttura": "Ospedale Uboldo - Cernusco sul Naviglio",
+    "indirizzo": "Via Uboldo 21, 20063 Cernusco sul Naviglio (MI)",
+    "provincia": "Milano",
+    "totale_ivg": 130,
+    "percentuale_farmacologiche": 0.0
+  },
+  {
+    "struttura": "Presidio ospedaliero Nostra Signora della Mercede",
+    "indirizzo": "Via Giuseppe Pilia, 08045 Lanusei (NU)",
+    "provincia": "Nuoro",
+    "totale_ivg": 5,
+    "percentuale_farmacologiche": 0.0
+  },
+  {
+    "struttura": "Ospedale M.O. Antonio Locatelli",
+    "indirizzo": "Via Groppini 22, 24020 Piario (BG)",
+    "provincia": "Bergamo",
+    "totale_ivg": 1,
+    "percentuale_farmacologiche": 0.0
+  },
+  {
+    "struttura": "Presidio Ospedaliero di Asola",
+    "indirizzo": "Piazza 80 Fanteria 1, 46041 Asola (MN)",
+    "provincia": "Mantova",
+    "totale_ivg": 48,
+    "percentuale_farmacologiche": 0.0
+  },
+  {
+    "struttura": "Presidio Ospedaliero Villa Igea",
+    "indirizzo": "Via Malta 16, 38122 Trento (TN)",
+    "provincia": "Trento",
+    "totale_ivg": 117,
+    "percentuale_farmacologiche": 0.0
+  },
+  {
+    "struttura": "Ospedale di Arzignano",
+    "indirizzo": "Via del Parco 1, 36071 Arzignano (VI)",
+    "provincia": "Vicenza",
+    "totale_ivg": 77,
+    "percentuale_farmacologiche": 0.0
+  },
+  {
+    "struttura": "Ospedale di Asiago",
+    "indirizzo": "Via Martiri di Granezza 42, 36012 Asiago (VI)",
+    "provincia": "Vicenza",
+    "totale_ivg": 41,
+    "percentuale_farmacologiche": 0.0
+  },
+  {
+    "struttura": "Ospedale San Paolo",
+    "indirizzo": "Largo Donatori Del sangue, 00053 Civitavecchia (RM)",
+    "provincia": "Roma",
+    "totale_ivg": 42,
+    "percentuale_farmacologiche": 0.0
+  },
+  {
+    "struttura": "Ospedale di Piove di Sacco",
+    "indirizzo": "Via San Rocco 8, 35028 Piove di Sacco (PD)",
+    "provincia": "Padova",
+    "totale_ivg": 80,
+    "percentuale_farmacologiche": 0.0
+  },
+  {
+    "struttura": "Ospedale di San Donà di Piave",
+    "indirizzo": "Via Nazario Sauro 25, 30027 San Donà di Piave (VE)",
+    "provincia": "Venezia",
+    "totale_ivg": 73,
+    "percentuale_farmacologiche": 0.0
+  },
+  {
+    "struttura": "Policlinico Casilino",
+    "indirizzo": "Via Casilina 1049, 00169 Roma (RM)",
+    "provincia": "Roma",
+    "totale_ivg": 88,
+    "percentuale_farmacologiche": 0.0
+  },
+  {
+    "struttura": "Ospedale dei Castelli",
+    "indirizzo": "Via Nettunense Km 11,5, 00072 Ariccia Rm (RM)",
+    "provincia": "Roma",
+    "totale_ivg": 2,
+    "percentuale_farmacologiche": 0.0
+  },
+  {
+    "struttura": "Ospedale San Giovanni Evangelista",
+    "indirizzo": "Via Parrozzani 3, 00019 Tivoli (RM)",
+    "provincia": "Roma",
+    "totale_ivg": 49,
+    "percentuale_farmacologiche": 0.0
+  },
+  {
+    "struttura": "Ospedale di Portogruaro",
+    "indirizzo": "Via Piemonte 1, 30026 Portogruaro (VE)",
+    "provincia": "Venezia",
+    "totale_ivg": 1,
+    "percentuale_farmacologiche": 0.0
+  },
+  {
+    "struttura": "Stabilimento di Fabriano",
+    "indirizzo": "Via Stelluti Scala 26, 60044 Fabriano (AN)",
+    "provincia": "Ancona",
+    "totale_ivg": 15,
+    "percentuale_farmacologiche": 0.0
+  },
+  {
+    "struttura": "Stabilimento di Jesi",
+    "indirizzo": "Via Aldo Moro 25, 60035 Jesi (AN)",
+    "provincia": "Ancona",
+    "totale_ivg": 50,
+    "percentuale_farmacologiche": 0.0
+  },
+  {
+    "struttura": "Casa di Cura Villa Igea",
+    "indirizzo": "Via Maggini 200, 60127 Ancona (AN)",
+    "provincia": "Ancona",
+    "totale_ivg": 88,
+    "percentuale_farmacologiche": 0.0
+  },
+  {
+    "struttura": "Stabilimento di Civitanova Marche",
+    "indirizzo": "Via Ginevri 1, 62012 Civitanova Marche (MC)",
+    "provincia": "Macerata",
+    "totale_ivg": 74,
+    "percentuale_farmacologiche": 0.0
+  },
+  {
+    "struttura": "Presidio ospedaliero Barone Lombardo",
+    "indirizzo": "Viale Giudice Saetta snc, 92024 Canicattì (AG)",
+    "provincia": "Agrigento",
+    "totale_ivg": 124,
+    "percentuale_farmacologiche": 0.0
+  },
+  {
+    "struttura": "Presidio ospedaliero San Massimo",
+    "indirizzo": "Via Battaglione Degli Alpini 1, 65017 Penne (PE)",
+    "provincia": "Pescara",
+    "totale_ivg": 347,
+    "percentuale_farmacologiche": 0.0
+  },
+  {
+    "struttura": "Presidio ospedaliero Santissima Annunziata",
+    "indirizzo": "Via dei Vestini, 66100 Chieti (CH)",
+    "provincia": "Chieti",
+    "totale_ivg": 5,
+    "percentuale_farmacologiche": 0.0
+  },
+  {
+    "struttura": "Presidio Ospedaliero Marcianise",
+    "indirizzo": "Rione Santella Via Orto dell'Abate, 81025 Marcianise (CE)",
+    "provincia": "Caserta",
+    "totale_ivg": 53,
+    "percentuale_farmacologiche": 0.0
+  },
+  {
+    "struttura": "Presidio ospedaliero Santa Maria della Speranza",
+    "indirizzo": "Via Fiorignano, 84091 Battipaglia (SA)",
+    "provincia": "Salerno",
+    "totale_ivg": 73,
+    "percentuale_farmacologiche": 0.0
+  },
+  {
+    "struttura": "Presidio Ospedaliero San Luca",
+    "indirizzo": "Via Cammarota, 84078 VallodDella Lucania (SA)",
+    "provincia": "Salerno",
+    "totale_ivg": 68,
+    "percentuale_farmacologiche": 0.0
+  },
+  {
+    "struttura": "Casa di Cura Santa Maria",
+    "indirizzo": "Via De Ferrariis 24, 70124 Bari (BA)",
+    "provincia": "Bari",
+    "totale_ivg": 168,
+    "percentuale_farmacologiche": 0.0
+  },
+  {
+    "struttura": "Casa di Cura Mater Dei",
+    "indirizzo": "Via Hahnemann 10, 70126 Bari (BA)",
+    "provincia": "Bari",
+    "totale_ivg": 301,
+    "percentuale_farmacologiche": 0.0
+  },
+  {
+    "struttura": "Casa di Cura Monte Imperatore",
+    "indirizzo": "Strada provinciale Noci - Castellaneta km.10, 70015 Noci (BA)",
+    "provincia": "Bari",
+    "totale_ivg": 187,
+    "percentuale_farmacologiche": 0.0
+  },
+  {
+    "struttura": "Ospedale Francavilla Fontana",
+    "indirizzo": "Via Monsignor Armando Franco, 72021 Francavilla Fontana (BR)",
+    "provincia": "Brindisi",
+    "totale_ivg": 33,
+    "percentuale_farmacologiche": 0.0
+  }
+]
